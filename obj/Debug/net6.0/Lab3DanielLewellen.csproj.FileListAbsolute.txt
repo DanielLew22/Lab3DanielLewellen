@@ -1,0 +1,15 @@
+C:\Users\cardi\Documents\Lab3\Lab3DanielLewellen\bin\Debug\net6.0\Lab3DanielLewellen.exe
+C:\Users\cardi\Documents\Lab3\Lab3DanielLewellen\bin\Debug\net6.0\Lab3DanielLewellen.deps.json
+C:\Users\cardi\Documents\Lab3\Lab3DanielLewellen\bin\Debug\net6.0\Lab3DanielLewellen.runtimeconfig.json
+C:\Users\cardi\Documents\Lab3\Lab3DanielLewellen\bin\Debug\net6.0\Lab3DanielLewellen.dll
+C:\Users\cardi\Documents\Lab3\Lab3DanielLewellen\bin\Debug\net6.0\Lab3DanielLewellen.pdb
+C:\Users\cardi\Documents\Lab3\Lab3DanielLewellen\obj\Debug\net6.0\Lab3DanielLewellen.csproj.AssemblyReference.cache
+C:\Users\cardi\Documents\Lab3\Lab3DanielLewellen\obj\Debug\net6.0\Lab3DanielLewellen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cardi\Documents\Lab3\Lab3DanielLewellen\obj\Debug\net6.0\Lab3DanielLewellen.AssemblyInfoInputs.cache
+C:\Users\cardi\Documents\Lab3\Lab3DanielLewellen\obj\Debug\net6.0\Lab3DanielLewellen.AssemblyInfo.cs
+C:\Users\cardi\Documents\Lab3\Lab3DanielLewellen\obj\Debug\net6.0\Lab3DanielLewellen.csproj.CoreCompileInputs.cache
+C:\Users\cardi\Documents\Lab3\Lab3DanielLewellen\obj\Debug\net6.0\Lab3DanielLewellen.dll
+C:\Users\cardi\Documents\Lab3\Lab3DanielLewellen\obj\Debug\net6.0\refint\Lab3DanielLewellen.dll
+C:\Users\cardi\Documents\Lab3\Lab3DanielLewellen\obj\Debug\net6.0\Lab3DanielLewellen.pdb
+C:\Users\cardi\Documents\Lab3\Lab3DanielLewellen\obj\Debug\net6.0\Lab3DanielLewellen.genruntimeconfig.cache
+C:\Users\cardi\Documents\Lab3\Lab3DanielLewellen\obj\Debug\net6.0\ref\Lab3DanielLewellen.dll
